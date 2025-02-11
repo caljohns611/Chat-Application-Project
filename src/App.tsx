@@ -10,5 +10,7 @@ const App = () => {
       <Search />
       <Posts />
     </div>
-  )
-}
+  );
+};
+
+export default App;
